@@ -1,0 +1,24 @@
+{
+  "name": "study-react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Brian Swisher"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "react": "~0.14.6",
+    "babel-browser": "*",
+    "marked": "~0.3.5"
+  }
+}
